@@ -1,1 +1,1 @@
-# demo
+print("have a nice day ")
